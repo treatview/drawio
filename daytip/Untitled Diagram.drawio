@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-10T10:02:24.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="J6wVUVwHoPDImTWOIcQH" version="13.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-08-10T10:22:11.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="bMEnBAYrEmKsisJapyxf" version="13.6.2" type="github" pages="4">
   <diagram id="ISz6apiqJRanIGy9Ss5K" name="Page-1">
     <mxGraphModel dx="942" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -256,6 +256,9 @@
         </mxCell>
         <mxCell id="jXNHLseZ2VNi7du-fdOd-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="vryApCw5Qk6Wh8PynRup-1" vertex="1">
           <mxGeometry x="220" y="880" width="20" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="ORLkGIuuUKZdvLxZJ8K5-0" value="根据城市名称获取经纬度，&lt;br&gt;然后计算门店与其距离&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vryApCw5Qk6Wh8PynRup-1">
+          <mxGeometry x="470" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
