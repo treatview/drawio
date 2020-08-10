@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T15:21:31.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36" etag="yd2cTO6XhwmAzS4YKHBX" version="13.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-10T05:46:38.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="aBx6vr81n8DgxDS28Eqe" version="13.6.0" type="github" pages="2">
   <diagram id="ISz6apiqJRanIGy9Ss5K" name="Page-1">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,10 +11,31 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5CvAVDNASA8DRnmTq8Hj" name="Page-2">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="nhAPBx8_N_ZMhF359gxN-0" />
         <mxCell id="nhAPBx8_N_ZMhF359gxN-1" parent="nhAPBx8_N_ZMhF359gxN-0" />
+        <mxCell id="ldFXmXxCW2rjsoSBN2v0-0" value="积分商城" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nhAPBx8_N_ZMhF359gxN-1">
+          <mxGeometry x="80" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ldFXmXxCW2rjsoSBN2v0-5" value="后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nhAPBx8_N_ZMhF359gxN-1">
+          <mxGeometry x="240" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ldFXmXxCW2rjsoSBN2v0-6" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nhAPBx8_N_ZMhF359gxN-1">
+          <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ldFXmXxCW2rjsoSBN2v0-7" value="更改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nhAPBx8_N_ZMhF359gxN-1">
+          <mxGeometry x="250" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ldFXmXxCW2rjsoSBN2v0-8" value="积分商品，设置商品积分值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nhAPBx8_N_ZMhF359gxN-1">
+          <mxGeometry x="465" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ldFXmXxCW2rjsoSBN2v0-9" value="积分商城,显示所有可兑换的商品（不区分门店）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nhAPBx8_N_ZMhF359gxN-1">
+          <mxGeometry x="450" y="340" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ldFXmXxCW2rjsoSBN2v0-10" value="到家（店）和物流？&lt;br&gt;积分订单没有售后" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nhAPBx8_N_ZMhF359gxN-1">
+          <mxGeometry x="450" y="410" width="150" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
