@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T02:39:12.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="pbRMpdJStHYtF7JGdqIw" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T02:44:38.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="L66Cs2ZaQSW8W5cNEmOM" version="21.8.0" type="github">
   <diagram id="C2wAqNbzJbS76QTIGzf4" name="第 1 页">
     <mxGraphModel dx="1386" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ERzCzFuGuj2Xc7oLLuWw-1" value="composer install" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ERzCzFuGuj2Xc7oLLuWw-1" value="composer install" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DD13bNQhJGm73ejdVltn-1" value="compose.lock" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
