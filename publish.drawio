@@ -1,9 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T03:30:29.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.16" etag="ySRdIFwsPkZPEwiXIN-L" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-02T03:47:30.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="YDBqtX9VgVPVwWECpbfM" version="22.1.16" type="github">
   <diagram name="第 1 页" id="HEjvyV17QfU2v2mI-T7l">
-    <mxGraphModel>
+    <mxGraphModel dx="1386" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PQXJ-k0mhNzuXkqBx6cb-2" value="主任务表" style="swimlane;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="200" height="70" as="geometry">
+            <mxRectangle x="90" y="170" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
