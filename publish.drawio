@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T07:50:38.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="eR8kNkz3nPUXlOii3taV" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T09:21:15.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="0SA5DE3GZM1vGnuMAhmx" version="22.1.16" type="github">
   <diagram name="第 1 页" id="HEjvyV17QfU2v2mI-T7l">
     <mxGraphModel dx="1386" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,33 +9,43 @@
             <mxRectangle x="90" y="170" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hfjpM53F0VD8bZR_W0MK-1" value="流程表" style="swimlane;startSize=20;" vertex="1" parent="1">
+        <mxCell id="hfjpM53F0VD8bZR_W0MK-1" value="流程表" style="swimlane;startSize=20;" parent="1" vertex="1">
           <mxGeometry x="390" y="170" width="200" height="70" as="geometry">
             <mxRectangle x="90" y="170" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hfjpM53F0VD8bZR_W0MK-2" value="命令表" style="swimlane;startSize=20;" vertex="1" parent="1">
-          <mxGeometry x="390" y="340" width="200" height="70" as="geometry">
+        <mxCell id="hfjpM53F0VD8bZR_W0MK-2" value="命令表" style="swimlane;startSize=20;" parent="1" vertex="1">
+          <mxGeometry x="390" y="250" width="200" height="70" as="geometry">
             <mxRectangle x="90" y="170" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hfjpM53F0VD8bZR_W0MK-4" value="站点" style="swimlane;startSize=20;" vertex="1" parent="1">
-          <mxGeometry x="90" y="340" width="200" height="70" as="geometry">
+        <mxCell id="hfjpM53F0VD8bZR_W0MK-4" value="站点" style="swimlane;startSize=20;" parent="1" vertex="1">
+          <mxGeometry x="90" y="250" width="200" height="70" as="geometry">
             <mxRectangle x="90" y="170" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hfjpM53F0VD8bZR_W0MK-5" value="主任务" style="swimlane;startSize=20;" vertex="1" parent="1">
-          <mxGeometry x="100" y="515" width="250" height="140" as="geometry">
+        <mxCell id="hfjpM53F0VD8bZR_W0MK-5" value="主任务" style="swimlane;startSize=20;" parent="1" vertex="1">
+          <mxGeometry x="80" y="360" width="250" height="140" as="geometry">
             <mxRectangle x="90" y="170" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hfjpM53F0VD8bZR_W0MK-11" value="关联多站点" style="swimlane;startSize=20;" vertex="1" parent="hfjpM53F0VD8bZR_W0MK-5">
+        <mxCell id="hfjpM53F0VD8bZR_W0MK-11" value="关联多站点" style="swimlane;startSize=20;" parent="hfjpM53F0VD8bZR_W0MK-5" vertex="1">
           <mxGeometry x="20" y="40" width="200" height="30" as="geometry">
             <mxRectangle x="90" y="170" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hfjpM53F0VD8bZR_W0MK-6" value="关联单一流程" style="swimlane;startSize=20;" vertex="1" parent="hfjpM53F0VD8bZR_W0MK-5">
+        <mxCell id="hfjpM53F0VD8bZR_W0MK-6" value="关联单一流程" style="swimlane;startSize=20;" parent="hfjpM53F0VD8bZR_W0MK-5" vertex="1">
           <mxGeometry x="20" y="80" width="200" height="30" as="geometry">
+            <mxRectangle x="90" y="170" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uJ7la-lIGgvZjE7Ppfcc-1" value="流程" style="swimlane;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="390" y="370" width="250" height="90" as="geometry">
+            <mxRectangle x="90" y="170" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uJ7la-lIGgvZjE7Ppfcc-2" value="关联多命令" style="swimlane;startSize=20;" vertex="1" parent="uJ7la-lIGgvZjE7Ppfcc-1">
+          <mxGeometry x="20" y="40" width="200" height="30" as="geometry">
             <mxRectangle x="90" y="170" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
