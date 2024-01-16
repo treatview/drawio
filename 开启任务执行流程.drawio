@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T07:18:50.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="IC_8alpVo982FXl_r6Fg" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T07:33:41.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="GPDe-OOGDcuwXYrBbdaN" version="22.1.16" type="github">
   <diagram name="第 1 页" id="FwGdxbNtF0jXh57lpMwn">
     <mxGraphModel dx="2213" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,26 +7,41 @@
         <mxCell id="eIVRO_CXI7sv57dlJCMF-9" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-340" y="60" width="420" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="eIVRO_CXI7sv57dlJCMF-1" value="开启" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-9">
+        <mxCell id="eIVRO_CXI7sv57dlJCMF-1" value="开启简图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-9">
           <mxGeometry y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eIVRO_CXI7sv57dlJCMF-3" value="？&lt;br&gt;脚本类型&lt;br&gt;命令类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-9">
+        <mxCell id="eIVRO_CXI7sv57dlJCMF-3" value="？&lt;br&gt;脚本类型&lt;br&gt;命令类型" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-9">
           <mxGeometry x="160" y="60" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eIVRO_CXI7sv57dlJCMF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eIVRO_CXI7sv57dlJCMF-9" source="eIVRO_CXI7sv57dlJCMF-1" target="eIVRO_CXI7sv57dlJCMF-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eIVRO_CXI7sv57dlJCMF-4" value="命令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-9">
+        <mxCell id="eIVRO_CXI7sv57dlJCMF-4" value="命令" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-9">
           <mxGeometry x="300" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eIVRO_CXI7sv57dlJCMF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="eIVRO_CXI7sv57dlJCMF-9" source="eIVRO_CXI7sv57dlJCMF-3" target="eIVRO_CXI7sv57dlJCMF-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eIVRO_CXI7sv57dlJCMF-5" value="脚本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-9">
+        <mxCell id="eIVRO_CXI7sv57dlJCMF-5" value="脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-9">
           <mxGeometry x="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eIVRO_CXI7sv57dlJCMF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eIVRO_CXI7sv57dlJCMF-9" source="eIVRO_CXI7sv57dlJCMF-3" target="eIVRO_CXI7sv57dlJCMF-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eIVRO_CXI7sv57dlJCMF-10" value="脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIVRO_CXI7sv57dlJCMF-11" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;前置信息&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;任务-&amp;gt;关联流程-&amp;gt;关联命令行&lt;/p&gt;&lt;p&gt;执行目录存在&lt;br&gt;流程命令存在&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="30" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eIVRO_CXI7sv57dlJCMF-12" value="总执行状态写入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIVRO_CXI7sv57dlJCMF-13" value="前置表单" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eIVRO_CXI7sv57dlJCMF-14" value="ls_publish_task_flow_excute_log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="340" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
