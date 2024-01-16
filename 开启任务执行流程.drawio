@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T08:14:14.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="vZxE5nCqEUIys8ugRlp5" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T08:44:08.358Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="TkTRKCMMDluAnJ3C7-EE" version="22.1.16" type="github">
   <diagram name="第 1 页" id="FwGdxbNtF0jXh57lpMwn">
     <mxGraphModel dx="2560" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="eIVRO_CXI7sv57dlJCMF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="eIVRO_CXI7sv57dlJCMF-83" source="eIVRO_CXI7sv57dlJCMF-14" target="eIVRO_CXI7sv57dlJCMF-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eIVRO_CXI7sv57dlJCMF-14" value="表：ls_publish_task_flow_excute_log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-83">
+        <mxCell id="eIVRO_CXI7sv57dlJCMF-14" value="流水记录表：ls_publish_task_flow_excute_log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-83">
           <mxGeometry x="243.96355353075174" width="199.81776765375852" height="32.857142857142854" as="geometry" />
         </mxCell>
         <mxCell id="eIVRO_CXI7sv57dlJCMF-22" value="检查exeute_path" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-83">
@@ -107,13 +107,13 @@
         <mxCell id="eIVRO_CXI7sv57dlJCMF-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eIVRO_CXI7sv57dlJCMF-83" source="eIVRO_CXI7sv57dlJCMF-39" target="eIVRO_CXI7sv57dlJCMF-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eIVRO_CXI7sv57dlJCMF-39" value="表：ls_publish_task_flow_excute_log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-83">
+        <mxCell id="eIVRO_CXI7sv57dlJCMF-39" value="环境检查表：ls_publish_env_check_log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-83">
           <mxGeometry x="708.6560364464691" y="254.64285714285708" width="199.81776765375852" height="32.857142857142854" as="geometry" />
         </mxCell>
         <mxCell id="eIVRO_CXI7sv57dlJCMF-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eIVRO_CXI7sv57dlJCMF-83" source="eIVRO_CXI7sv57dlJCMF-41" target="eIVRO_CXI7sv57dlJCMF-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eIVRO_CXI7sv57dlJCMF-41" value="表：ls_publish_env_check_log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-83">
+        <mxCell id="eIVRO_CXI7sv57dlJCMF-41" value="环境检查表：ls_publish_env_check_log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-83">
           <mxGeometry x="392.6651480637813" y="49.28571428571428" width="199.81776765375852" height="32.857142857142854" as="geometry" />
         </mxCell>
         <mxCell id="eIVRO_CXI7sv57dlJCMF-44" value="单站点状态初始写入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-83">
@@ -125,7 +125,7 @@
         <mxCell id="eIVRO_CXI7sv57dlJCMF-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eIVRO_CXI7sv57dlJCMF-83" source="eIVRO_CXI7sv57dlJCMF-48" target="eIVRO_CXI7sv57dlJCMF-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eIVRO_CXI7sv57dlJCMF-48" value="表：ls_publish_task_flow_web_log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-83">
+        <mxCell id="eIVRO_CXI7sv57dlJCMF-48" value="站点执行状态表：ls_publish_task_flow_web_log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-83">
           <mxGeometry x="362.4601366742597" y="402.49999999999994" width="199.81776765375852" height="32.857142857142854" as="geometry" />
         </mxCell>
         <mxCell id="eIVRO_CXI7sv57dlJCMF-55" value="for循环执行命令行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-83">
@@ -157,7 +157,7 @@
         <mxCell id="eIVRO_CXI7sv57dlJCMF-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="eIVRO_CXI7sv57dlJCMF-83" source="eIVRO_CXI7sv57dlJCMF-59" target="eIVRO_CXI7sv57dlJCMF-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eIVRO_CXI7sv57dlJCMF-59" value="表：ls_publish_execute_steps_log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-83">
+        <mxCell id="eIVRO_CXI7sv57dlJCMF-59" value="站点执行命令状态表：ls_publish_execute_steps_log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-83">
           <mxGeometry x="362.4601366742597" y="558.5714285714284" width="199.81776765375852" height="32.857142857142854" as="geometry" />
         </mxCell>
         <mxCell id="eIVRO_CXI7sv57dlJCMF-66" value="协程同步更新任务总数量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-83">
