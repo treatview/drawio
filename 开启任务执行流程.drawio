@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T08:11:51.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="yVT-7mjPHXTGfkx-T4Gx" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T08:14:14.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="vZxE5nCqEUIys8ugRlp5" version="22.1.16" type="github">
   <diagram name="第 1 页" id="FwGdxbNtF0jXh57lpMwn">
     <mxGraphModel dx="2560" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
         <mxCell id="eIVRO_CXI7sv57dlJCMF-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eIVRO_CXI7sv57dlJCMF-83" source="eIVRO_CXI7sv57dlJCMF-41" target="eIVRO_CXI7sv57dlJCMF-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eIVRO_CXI7sv57dlJCMF-41" value="表：ls_publish_task_flow_excute_log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-83">
+        <mxCell id="eIVRO_CXI7sv57dlJCMF-41" value="表：ls_publish_env_check_log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-83">
           <mxGeometry x="392.6651480637813" y="49.28571428571428" width="199.81776765375852" height="32.857142857142854" as="geometry" />
         </mxCell>
         <mxCell id="eIVRO_CXI7sv57dlJCMF-44" value="单站点状态初始写入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eIVRO_CXI7sv57dlJCMF-83">
